@@ -1,10 +1,42 @@
 # Information Retrieval System
 
-build_index.py: This system processes a collection of documents, queries, and relational documents to build an inverted index based on the provided method of normalization, which is done by stemming or lemmatization '''preprocessing.py'''.
+This project implements a modular Information Retrieval (IR) system for indexing, querying, scoring, and evaluating a collection of documents using tf-idf and standard IR metrics.
 
-query.py: This takes a query, normalizes and tokenizes the text into a query vector. Then, it finds the raw frequency produced by the inverted index, and ranks all documents for each token of the query by computing the dot product of the tf-idf weights, and the sppecified scoring scheme based on ltn.ltn. It allows for cosine normalization of these weights. After this is done for each query token, each document is scored (cosine normalization works here too), and using a heap, we find the k highest scored documents (k being specified by the user) for the query.
+## ```build_index.py```
+Builds an inverted index from raw documents and relevance data.
+Supports normalization via stemming or lemmatization (```preprocessing.py```).
+Outputs an index with term frequencies and document stats.
 
-evaluation.py: This uses '''query.py''' to find all the retrieved documents, and the actual relevant documents, and evaluates the schemes accordingly. It does so using MAP or MRR scoring, which is used to determine the correctness of the IR system.
+## ```query.py```
+Processes and scores queries against the inverted index.
+Normalizes and tokenizes queries into tf-idf vectors.
+Supports scoring schemes (ex: ltn.ltn) and optional cosine normalization.
+Returns top-k documents using a heap-based ranking.
 
-testfile.py: Runs evaluation.py with different scoring schemes, evaluation metrics, normalization techniques, different final number of retrieved documents, randomly selecting a number of queries, to find the best techniques for the IR system. Do note that running it with the current metrics takes roughly 3-4 hours to run, and a few sample runs are provided in the samples directory.
+## ```evaluation.py```
+Evaluates retrieval performance.
+Compares retrieved results with relevant documents.
+Supports MAP and MRR as evaluation metrics.
+
+## ```testfile.py```
+Runs automated experiments across different configurations.
+Tests scoring schemes, normalization methods, evaluation metrics, and k-values.
+Randomly samples queries for benchmarking.
+Full runs may take 3–4 hours; samples are in the ```samples/``` directory.
+
+# Execute
+
+```
+Reading the .ALL collection:
+1: python3 ./code/build_index.py CISI_simplified
+
+Finding the top 10 relevant documents to a query [NOTE: collection, queries, scoring scheme, method, and number of retrieved documents can be altered]:
+2. python3 ./code/query.py CISI_simplified ltn l 10 "What is information science?  Give definitions where possible."
+
+Evaluating query.py through the various metrics [NOTE: scoring scheme, method, number of random queries, number of retrieved documents and metrics can be altered]:
+3. python3 ./code/evaluation.py CISI_simplified ltn l 10 10 mrr
+
+Testing all possible scoring schemes, methods, number of random queries [10, 80], number of retrieved documents [10, 860, 1710] and metrics, a number of times:
+4. python3 ./code/testfile.py ```
+
 
