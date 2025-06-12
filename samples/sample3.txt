@@ -1,0 +1,444 @@
+documents: 10 queries: 10
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.6033333333333333
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.5717913832199546
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.6583333333333333
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.39289572310405646
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.25833333333333336
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.16162698412698412
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.2991666666666667
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.15587301587301589
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.06666666666666667
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.1811111111111111
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.09761904761904762
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.16714285714285712
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.62
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.30123015873015874
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.44000000000000006
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.5100436507936509
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.2087301587301587
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.20999999999999996
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.15595238095238095
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.4230767195767196
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.3491666666666667
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.23555555555555557
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.26916666666666667
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.45071428571428573
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.195
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.3661111111111111
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.49777777777777776
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.5397023809523809
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  10 , Metric :  mrr  =  0.1875
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  10 , Metric :  map  =  0.08486111111111111
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  10 , Metric :  mrr  =  0.24583333333333335
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  10 , Metric :  map  =  0.1578968253968254
+----------------------------------------------------------------------------------------------------
+documents: 10 queries: 45
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.49947089947089945
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.4936914420089023
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.5670370370370369
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.5090196698020771
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.23906525573192236
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.24976012009742168
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.23527336860670192
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.19737595532039975
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.13187830687830684
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.09548626858150668
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.13631393298059966
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.07536155202821869
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.42276895943562603
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.4211400751658688
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.49187830687830686
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.369198790627362
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.18690476190476188
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.13254262198706643
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.2467195767195767
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.18073192239858907
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.32817460317460306
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.3203196649029983
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.43314814814814817
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.34761463844797175
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.34548500881834215
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.2995626102292769
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.44320987654320976
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.2891507936507937
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  45 , Metric :  mrr  =  0.15910052910052913
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  45 , Metric :  map  =  0.1490890652557319
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  45 , Metric :  mrr  =  0.1798412698412698
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  45 , Metric :  map  =  0.13445823885109598
+----------------------------------------------------------------------------------------------------
+documents: 10 queries: 80
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.5365653717627402
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.4831036047459919
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.5473684210526316
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.4613057238002414
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.24092522974101907
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.22497753560488526
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.2538481620718462
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.23148766012252858
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.11472431077694234
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.10460078768349447
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.11744465329991643
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.1072166092314119
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.4295269423558896
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.37307348853284
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.4249216791979948
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.3903744666726339
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.1944183375104427
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.16837132513824243
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.26272451963241433
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.23226312308549157
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.33040413533834584
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.3134803153717627
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.39542606516290724
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.3529808524286908
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.34482038429406847
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.2960232426303855
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.3829051796157058
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.3336327425707125
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  80 , Metric :  mrr  =  0.15200501253132828
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  10 , Random :  80 , Metric :  map  =  0.1418530701754386
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  80 , Metric :  mrr  =  0.17386173767752713
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  10 , Random :  80 , Metric :  map  =  0.1568803830011537
+----------------------------------------------------------------------------------------------------
+
+documents: 860 queries: 10
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.4988888888888889
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.19042308398775992
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.5477777777777778
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.18979304462900143
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.2626884920634921
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.09095170416333666
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.1898356204183801
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.07711214522332191
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.2706042566496339
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.04137874364378023
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.1555696131354026
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.047845849182449544
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.3802380952380952
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.1799062253486316
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.3722680563711098
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.21657570009979316
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.14287274656849097
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.11299249476920281
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.2877841571661796
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.1288366258093996
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.2802561228009658
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.13714931265428912
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.3276190476190476
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.11258804946312748
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.26186867327781804
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.1271559161855541
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.39127970635809384
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.10583973998383789
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  10 , Metric :  mrr  =  0.23319919627933888
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  10 , Metric :  map  =  0.05997401140788594
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  10 , Metric :  mrr  =  0.13019372722619532
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  10 , Metric :  map  =  0.05506435100365378
+----------------------------------------------------------------------------------------------------
+documents: 860 queries: 45
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.4730991611488065
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.19949880006247483
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.5345401641452484
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.20145214197079372
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.2526146471852012
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.08896556260919714
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.296772719557404
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.0833182300799034
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.1410868965485545
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.05384174311309963
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.1062582017246713
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.05848236645380458
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.45378101610602584
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.16801541082507868
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.46156018832675916
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.16161710398397186
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.15548179361003903
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.08363519599150893
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.24715315180378244
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.08659328099064614
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.3118001401721084
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.10878131681075331
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.3974057247638074
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.12285653503641587
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.3384392824725122
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.09027704468980262
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.33501299139320506
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.1041807372187014
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  45 , Metric :  mrr  =  0.16855598350839227
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  45 , Metric :  map  =  0.060905194490659426
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  45 , Metric :  mrr  =  0.18594011516888997
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  45 , Metric :  map  =  0.0623979265569606
+----------------------------------------------------------------------------------------------------
+documents: 860 queries: 80
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.5430404268273064
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.17313578052688777
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.5534393818580003
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.17767564015343557
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.2549293234907684
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.09097347077249897
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.27230898598590264
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.09271180082140602
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.1396959634966264
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.05592154520974003
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.14024399724405673
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.05726709605320545
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.4347040450294896
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.15022993117562658
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.4327726813847642
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.15444850444825803
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.20949392442331263
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.08313647768172339
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.2768996837444828
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.09242736928204794
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.3433534444009941
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.11341298684026263
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.4045935216218607
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.1178344739155672
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.3555396007549041
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.0976719035146428
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.39127828351982125
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.10574465451472087
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  80 , Metric :  mrr  =  0.17190412522974777
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  860 , Random :  80 , Metric :  map  =  0.06286698993340936
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  80 , Metric :  mrr  =  0.1907785796796437
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  860 , Random :  80 , Metric :  map  =  0.06675724346052449
+----------------------------------------------------------------------------------------------------
+
+documents: 1710 queries: 10
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.5743971631205673
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.16443116844886005
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.6924242424242424
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.16002478652680516
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.2480082665250008
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.08113651977659558
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.30325608522778147
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.09947871352770651
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.0973497149177265
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.050355463479786935
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.23524531024531026
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.03715992933737136
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.6669934640522875
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.10853618598524098
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.5686335403726708
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.13807946792668624
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.20822572629833086
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.0830297294605235
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.3035743931268217
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.0711379934266209
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.23781845773288152
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.12062226610887491
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.24872602613381992
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.1294705420678174
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.2599019607843137
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.0726027225285497
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.4421038132079563
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.11023555257756419
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  10 , Metric :  mrr  =  0.1606366601729505
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  10 , Metric :  map  =  0.043790794258628085
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  10 , Metric :  mrr  =  0.08023566482848705
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  10 , Metric :  map  =  0.05754136770510386
+----------------------------------------------------------------------------------------------------
+documents: 1710 queries: 45
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.49543448137512097
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.1418465740634819
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.5906455165875456
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.15205092465928693
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.2478218152209561
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.07730223551685261
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.23397209656411125
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.07534615814006589
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.13059878167648745
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.06379028808958241
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.14209016117233267
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.04518121551692327
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.47985359427200563
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.13920411851882036
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.4624900085397335
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.16637822733323093
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.1968340169832557
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.07887560528877353
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.30523084802176353
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.0805749642149104
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.3127392920340886
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.10575898442910536
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.44112006692145167
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.10254361068589841
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.3173037178179604
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.08807984063806236
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.4448427347927063
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.08699405859642112
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  45 , Metric :  mrr  =  0.21092126251672272
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  45 , Metric :  map  =  0.055682918831861335
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  45 , Metric :  mrr  =  0.2375044890769908
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  45 , Metric :  map  =  0.05515731668301019
+----------------------------------------------------------------------------------------------------
+documents: 1710 queries: 80
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.5430500875429721
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.15943548973662913
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.5534393818580003
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltn , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.16493842119868368
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.25493880324201973
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.08082827946981248
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.2723195886408074
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnn , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.08287329789046237
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.13970546378163498
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.0504944139973003
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.14025477357062255
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnn , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.05173136027734587
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.4347136845128133
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.1373715646943637
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.4327726813847642
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntn , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.1429237928928571
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.209504220115595
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.07304145857558673
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.2769096217314442
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ltc , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.08160901437027371
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.34336294468600265
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.10013171817034779
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.40460411574000626
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  lnc , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.10582683981844046
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.3555491216628179
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.08503279706070063
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.3912893312903812
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  nnc , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.09223036296243
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  80 , Metric :  mrr  =  0.17191491038936813
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  l , K :  1710 , Random :  80 , Metric :  map  =  0.055721475812656504
+----------------------------------------------------------------------------------------------------
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  80 , Metric :  mrr  =  0.19078804579096517
+Program :  ./code/evaluation.py , Collection :  CISI_simplified , Scheme :  ntc , Method :  s , K :  1710 , Random :  80 , Metric :  map  =  0.05965130768711701
+----------------------------------------------------------------------------------------------------
+
