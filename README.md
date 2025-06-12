@@ -37,6 +37,6 @@ Evaluating query.py through the various metrics [NOTE: scoring scheme, method, n
 3. python3 ./code/evaluation.py CISI_simplified ltn l 10 10 mrr
 
 Testing all possible scoring schemes, methods, number of random queries [10, 80], number of retrieved documents [10, 860, 1710] and metrics, a number of times:
-4. python3 ./code/testfile.py ```
+4. python3 ./code/testfile.py```
 
 
