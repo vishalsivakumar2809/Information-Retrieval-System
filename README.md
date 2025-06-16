@@ -4,24 +4,34 @@ This project implements a modular Information Retrieval (IR) system for indexing
 
 ## ```build_index.py```
 Builds an inverted index from raw documents and relevance data.
+
 Supports normalization via stemming or lemmatization (```preprocessing.py```).
+
 Outputs an index with term frequencies and document stats.
 
 ## ```query.py```
 Processes and scores queries against the inverted index.
+
 Normalizes and tokenizes queries into tf-idf vectors.
+
 Supports scoring schemes (ex: ltn.ltn) and optional cosine normalization.
+
 Returns top-k documents using a heap-based ranking.
 
 ## ```evaluation.py```
 Evaluates retrieval performance.
+
 Compares retrieved results with relevant documents.
+
 Supports MAP and MRR as evaluation metrics.
 
 ## ```testfile.py```
 Runs automated experiments across different configurations.
+
 Tests scoring schemes, normalization methods, evaluation metrics, and k-values.
+
 Randomly samples queries for benchmarking.
+
 Full runs may take 3–4 hours; samples are in the ```samples/``` directory.
 
 # Execute
